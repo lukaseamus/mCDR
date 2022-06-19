@@ -1,4 +1,4 @@
-kdf <- read.csv("~/Desktop/Projects/Algal carbon/Data/k.csv")
+kdf <- read.csv("~/PATH/k.csv")
 require(ggplot2)
 
 #### 1 ####
