@@ -1,0 +1,5 @@
+Fauna,Plant,Mean,Q0.025,Q0.05,Q0.25,Q0.5,Q0.75,Q0.95,Q0.975,Average
+Macrofauna,Macroalgae,0.212,0.009,0.015,0.067,0.16,0.309,0.585,0.671,NA
+Macrofauna,Phytoplankton,0.283,0.015,0.029,0.118,0.248,0.406,0.677,0.752,NA
+Meiofauna,Macroalgae,0.363,0.059,0.102,0.271,0.375,0.464,0.574,0.606,0.2875
+Meiofauna,Phytoplankton,0.227,0.009,0.019,0.089,0.196,0.331,0.556,0.618,0.255

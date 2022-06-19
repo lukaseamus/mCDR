@@ -1,0 +1,225 @@
+﻿Reference,DOI,Plant,Species,Substrate (Product),k,rDOC,d,Model,N,P,C,C:N,C:P
+Albright et al. 1980,10.1515/9783110837988-015,marine macroalgae,Macrocystis pyrifera,Wet mass,0.06099915,NA,53,None,2.1,NA,30,14.3,NA
+Albright et al. 1980,10.1515/9783110837988-015,marine macroalgae,Macrocystis pyrifera,Wet mass,0.01429453,NA,55,None,2.1,NA,30,14.3,NA
+Albright et al. 1980,10.1515/9783110837988-015,marine macroalgae,Macrocystis pyrifera,Wet mass,0.008873517,NA,53,None,1,NA,29.5,29.5,NA
+Albright et al. 1980,10.1515/9783110837988-015,marine macroalgae,Macrocystis pyrifera,Wet mass,0.01139282,NA,55,None,1,NA,29.5,29.5,NA
+Albright et al. 1980,10.1515/9783110837988-015,marine macroalgae,Nereocystis luetkeana,Wet mass,0.07798217,NA,37,None,NA,NA,NA,NA,NA
+Albright et al. 1980,10.1515/9783110837988-015,marine macroalgae,Nereocystis luetkeana,Wet mass,0.01428523,NA,37,None,NA,NA,NA,NA,NA
+Albright et al. 1980,10.1515/9783110837988-015,marine macroalgae,Nereocystis luetkeana,Wet mass,0.02141361,NA,45,None,NA,NA,NA,NA,NA
+Albright et al. 1980,10.1515/9783110837988-015,marine macroalgae,Nereocystis luetkeana,Wet mass,0.03666856,NA,35,None,NA,NA,NA,NA,NA
+Birch et al. 1983,10.1515/botm.1983.26.4.165,marine macroalgae,Cladophora albida,Dry mass,0.006753251,NA,364,None,3.5186517,0.37759462,37.819378,10.74825849,100.1586781
+Birch et al. 1983,10.1515/botm.1983.26.4.165,marine macroalgae,Cladophora albida,Dry mass,0.00976337,NA,150,None,2.5787072,0.17693205,39.361958,15.26422154,222.4693491
+Bourguès et al. 1996,10.1007/BF00034552,marine macroalgae,Ulvaria obscura,Dry mass,0.03491098,NA,25,Logistic,4.4498806,0.09818182,32.970184,8.5657215,335.8074234
+Bourguès et al. 1996,10.1007/BF00034552,marine macroalgae,Ulvaria obscura,Dry mass,0.082,NA,18,First order exponential decay,4.4498806,0.09818182,32.970184,8.5657215,335.8074234
+Bourguès et al. 1996,10.1007/BF00034552,marine macroalgae,Ulvaria obscura,Dry mass,0.01943061,NA,36,Logistic,4.4498806,0.09818182,32.970184,8.5657215,335.8074234
+Bourguès et al. 1996,10.1007/BF00034552,marine macroalgae,Ulvaria obscura,Dry mass,0.01678631,NA,30,None,4.4498806,0.09818182,32.970184,8.5657215,335.8074234
+Brouwer 1996,10.1007/BF02390433,marine macroalgae,Desmarestia anceps,Ash-free dry mass,0.000778701,NA,312,None,NA,NA,NA,14.5,200
+Brouwer 1996,10.1007/BF02390433,marine macroalgae,Desmarestia anceps,Ash-free dry mass,0.01651807,NA,83,None,NA,NA,NA,17.5,625
+Buchsbaum et al. 1991,10.3354/meps072131,marine macroalgae,Ulva lactuca,Dry mass,0.02656032,NA,30,None,NA,NA,NA,10,NA
+Buchsbaum et al. 1991,10.3354/meps072131,marine macroalgae,Gracilaria tikvahiae,Dry mass,0.2371343,NA,15,None,NA,NA,NA,21,NA
+Buchsbaum et al. 1991,10.3354/meps072131,marine macroalgae,Fucus vesiculosus,Dry mass,0.08654732,NA,60,None,NA,NA,NA,22,NA
+de Bettignies et al. 2020,10.1111/jpy.13041,marine macroalgae,Laminaria hyperborea,Wet mass,0.0107,NA,170,First order exponential decay,2.02,NA,28.7,14.44,NA
+de Bettignies et al. 2020,10.1111/jpy.13041,marine macroalgae,Laminaria hyperborea,Wet mass,0.0366,NA,144,First order exponential decay,NA,NA,NA,NA,NA
+Frontier et al. 2021,10.1016/j.marenvres.2021.105529,marine macroalgae,Laminaria hyperborea,Wet mass,-0.001687343,NA,40,Linear,NA,NA,NA,NA,NA
+Frontier et al. 2021,10.1016/j.marenvres.2021.105529,marine macroalgae,Laminaria hyperborea,Wet mass,-0.001333367,NA,40,Linear,NA,NA,NA,NA,NA
+Frontier et al. 2021,10.1016/j.marenvres.2021.105529,marine macroalgae,Laminaria hyperborea,Wet mass,0.01770624,NA,40,Linear,NA,NA,NA,NA,NA
+Frontier et al. 2021,10.1016/j.marenvres.2021.105529,marine macroalgae,Laminaria ochroleuca,Wet mass,1.40E-05,NA,40,Linear,NA,NA,NA,NA,NA
+Frontier et al. 2021,10.1016/j.marenvres.2021.105529,marine macroalgae,Laminaria ochroleuca,Wet mass,0.004654517,NA,40,Linear,NA,NA,NA,NA,NA
+Frontier et al. 2021,10.1016/j.marenvres.2021.105529,marine macroalgae,Laminaria ochroleuca,Wet mass,0.01057395,NA,40,Linear,NA,NA,NA,NA,NA
+Frontier unpublished data,NA,marine macroalgae,Desmarestia menziesii,Wet mass,0.003616756,NA,183,NA,NA,NA,NA,NA,NA
+Frontier unpublished data,NA,marine macroalgae,Iridaea cordata,Wet mass,0.02703591,NA,183,NA,NA,NA,NA,NA,NA
+Frontier unpublished data,NA,marine macroalgae,Trematocarpus antarcticus,Wet mass,-0.003155378,NA,183,NA,NA,NA,NA,NA,NA
+Gabrielson et al. 1983,10.1515/botm.1983.26.4.173,marine macroalgae,Cladophora albida,Dry mass,0.0076,NA,78,Linear,3.21,0.313,43.4,13.52024922,138.658147
+Gabrielson et al. 1983,10.1515/botm.1983.26.4.173,marine macroalgae,Cladophora albida,Dry mass,0.0038,NA,58,Linear,3.44,0.291,40.7,11.83139535,139.862543
+Gabrielson et al. 1983,10.1515/botm.1983.26.4.173,marine macroalgae,Cladophora albida,Dry mass,0.0082,NA,358,Linear,3.92,0.335,43.5,11.09693878,129.8507463
+Gabrielson et al. 1983,10.1515/botm.1983.26.4.173,marine macroalgae,Cladophora albida,Dry mass,0.0035,NA,28,Linear,2.73,0.278,40.3,14.76190476,144.9640288
+Gao et al. 2021,10.3354/aei00393,marine macroalgae,Saccharina japonica,Dissolved organic carbon,0.04,37.3,150,First order exponential decay,NA,NA,NA,NA,NA
+Gao et al. 2021,10.3354/aei00393,marine macroalgae,Saccharina japonica,Dissolved organic carbon,0.09,38.2,150,First order exponential decay,NA,NA,NA,NA,NA
+Hunter 1976,10.1007/BF00009827,marine macroalgae,Fucus vesiculosus,Dry mass,0.04487819,NA,63,None,NA,NA,NA,28.522474,NA
+Hunter 1976,10.1007/BF00009827,marine macroalgae,Fucus vesiculosus,Dry mass,0.2192561,NA,63,None,NA,NA,NA,28.522474,NA
+Josselyn and Mathieson 1980,10.1007/BF03216236,marine macroalgae,Ascophyllum nodosum,Dry mass,0.0538,NA,61,First order exponential decay,1.6326643,0.10380623,49.0935706,30.069605,472.9347227
+Josselyn and Mathieson 1980,10.1007/BF03216236,marine macroalgae,Ascophyllum nodosum,Dry mass,0.0625,NA,61,First order exponential decay,1.6741214,0.10828026,51.80941332,30.947226,478.475147
+Josselyn and Mathieson 1980,10.1007/BF03216236,marine macroalgae,Ascophyllum nodosum,Dry mass,0.0764,NA,61,First order exponential decay,1.8853503,0.17546894,54.9237082,29.131832,313.010999
+Josselyn and Mathieson 1980,10.1007/BF03216236,marine macroalgae,Fucus vesiculosus,Dry mass,0.0828,NA,61,First order exponential decay,1.9786851,0.13597132,57.4323679,29.025522,422.3858965
+Josselyn and Mathieson 1980,10.1007/BF03216236,marine macroalgae,Fucus vesiculosus,Dry mass,0.1097,NA,61,First order exponential decay,2.3769968,0.18312103,52.79525486,22.210907,288.3079833
+Josselyn and Mathieson 1980,10.1007/BF03216236,marine macroalgae,Fucus vesiculosus,Dry mass,0.0297,NA,61,First order exponential decay,1.910828,0.19496799,54.37565469,28.456593,278.895293
+Kristensen 1994,10.1007/BF02180401,marine macroalgae,Ulva lactuca,Particulate organic carbon,0.004493151,NA,70,First order exponential decay,NA,NA,NA,7,NA
+Kristensen 1994,10.1007/BF02180401,marine macroalgae,Fucus vesiculosus,Particulate organic carbon,0.006383562,NA,70,First order exponential decay,NA,NA,NA,30,NA
+Kristensen 1994,10.1007/BF02180401,marine macroalgae,Ulva lactuca,Dissolved organic carbon,0.1011728,10.4147,70,First order exponential decay,NA,NA,NA,NA,NA
+Kristensen and Mikkelsen 2003,10.3354/meps265141,marine macroalgae,Fucus serratus,Particulate organic carbon,0.018065933,NA,18,First order exponential decay,NA,NA,NA,NA,NA
+Kristensen and Mikkelsen 2003,10.3354/meps265141,marine macroalgae,Fucus serratus,Particulate organic carbon,0.024461538,NA,18,First order exponential decay,NA,NA,NA,NA,NA
+Kristensen and Mikkelsen 2003,10.3354/meps265141,marine macroalgae,Fucus serratus,Particulate organic carbon,0.00989011,NA,18,First order exponential decay,NA,NA,NA,NA,NA
+Kristensen and Mikkelsen 2003,10.3354/meps265141,marine macroalgae,Fucus serratus,Particulate organic carbon,0.026175825,NA,18,First order exponential decay,NA,NA,NA,NA,NA
+Kristensen and Mikkelsen 2003,10.3354/meps265141,marine macroalgae,Fucus serratus,Particulate organic carbon,0.008307693,NA,18,First order exponential decay,NA,NA,NA,NA,NA
+Kristensen and Mikkelsen 2003,10.3354/meps265141,marine macroalgae,Fucus serratus,Particulate organic carbon,0.01556044,NA,18,First order exponential decay,NA,NA,NA,NA,NA
+Kristensen and Mikkelsen 2003,10.3354/meps265141,marine macroalgae,Fucus serratus,Particulate organic carbon,0.003428571,NA,18,First order exponential decay,NA,NA,NA,NA,NA
+Kristensen and Mikkelsen 2003,10.3354/meps265141,marine macroalgae,Fucus serratus,Particulate organic carbon,0.012659341,NA,18,First order exponential decay,NA,NA,NA,NA,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (dissolved organic carbon),0.004,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (dissolved organic carbon),0.005,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (dissolved organic carbon),0.005,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (dissolved organic carbon),0.005,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (dissolved organic carbon),0.004,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (dissolved organic carbon),0.008,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (dissolved organic carbon),0.012,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (dissolved organic carbon),0.019,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (dissolved organic carbon),0.023,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (carbon dioxide),0.024,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (carbon dioxide),0.031,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (carbon dioxide),0.048,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (carbon dioxide),0.022,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (carbon dioxide),0.029,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (carbon dioxide),0.054,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (carbon dioxide),0.019,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (carbon dioxide),0.023,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Kristensen et al. 1992,10.4319/lo.1992.37.7.1404,marine macroalgae,Chondrus crispus,Particulate organic carbon (carbon dioxide),0.038,NA,20,First order exponential decay,NA,NA,NA,14,NA
+Lopes et al. 2011,10.1016/j.ecss.2011.02.014,marine macroalgae,Fucus vesiculosus,Dry mass,0.084,NA,60,First order exponential decay,NA,NA,NA,NA,NA
+Lopes et al. 2011,10.1016/j.ecss.2011.02.014,marine macroalgae,Fucus vesiculosus,Dry mass,0.079,NA,60,First order exponential decay,NA,NA,NA,NA,NA
+Lopes et al. 2011,10.1016/j.ecss.2011.02.014,marine macroalgae,Fucus vesiculosus,Dry mass,0.073,NA,60,First order exponential decay,NA,NA,NA,NA,NA
+Lopes et al. 2011,10.1016/j.ecss.2011.02.014,marine macroalgae,Fucus vesiculosus,Dry mass,0.051,NA,60,First order exponential decay,NA,NA,NA,NA,NA
+Lopes et al. 2011,10.1016/j.ecss.2011.02.014,marine macroalgae,Fucus vesiculosus,Dry mass,0.018,NA,60,First order exponential decay,NA,NA,NA,NA,NA
+Lucas et al. 1981,10.3354/meps004043,marine macroalgae,Ecklonia maxima,Dissolved organic carbon,0.496941,31.25692,7,None,0.116,NA,1.19,10.2,NA
+Lucas et al. 1981,10.3354/meps004043,marine macroalgae,Laminaria pallida,Dissolved organic carbon,0.2985516,10.33804,9,None,0.21,NA,1.24,5.9,NA
+Nielsen et al. 2004,10.1007/978-1-4020-3021-5_7,marine macroalgae,Ceramium virgatum,Particulate organic carbon,0.038,NA,347,First order exponential decay,NA,NA,NA,11.2774365,264.9236
+Nielsen et al. 2004,10.1007/978-1-4020-3021-5_7,marine macroalgae,Ulva lactuca,Particulate organic carbon,0.04,NA,180,First order exponential decay,NA,NA,NA,19.796549,286.82477
+Nielsen et al. 2004,10.1007/978-1-4020-3021-5_7,marine macroalgae,Fucus vesiculosus,Particulate organic carbon,0.028,NA,347,First order exponential decay,NA,NA,NA,57.524943,521.48566
+Paalme et al. 2002,10.1023/A:1020364114603,marine macroalgae,Cladophora glomerata,Dry mass,0.02465929,NA,35,None,1.5143012,0.24832536,NA,NA,NA
+Paalme et al. 2002,10.1023/A:1020364114603,marine macroalgae,Cladophora glomerata,Dry mass,0.1239856,NA,35,None,1.4397395,0.19949494,NA,NA,NA
+Paalme et al. 2002,10.1023/A:1020364114603,marine macroalgae,Pylaiella littoralis,Dry mass,0.004727158,NA,35,None,0.7284483,0.19034402,NA,NA,NA
+Paalme et al. 2002,10.1023/A:1020364114603,marine macroalgae,Pylaiella littoralis,Dry mass,0.1752557,NA,35,None,0.71337754,0.19197953,NA,NA,NA
+Paalme et al. 2002,10.1023/A:1020364114603,marine macroalgae,Pylaiella littoralis,Dry mass,0.08853131,NA,30,None,NA,NA,NA,NA,NA
+Paalme et al. 2002,10.1023/A:1020364114603,marine macroalgae,Pylaiella littoralis,Dry mass,0.03722283,NA,31,None,NA,NA,NA,NA,NA
+Paalme et al. 2002,10.1023/A:1020364114603,marine macroalgae,Cladophora glomerata,Dry mass,0.01907272,NA,30,None,NA,NA,NA,NA,NA
+Peckol and Rivers 1996,10.1006/ecss.1996.0072,marine macroalgae,Gracilaria tikvahiae,Wet mass,0.02841726,NA,50,Linear,NA,NA,27,NA,NA
+Peckol and Rivers 1996; Hauxwell et al. 1998,10.1006/ecss.1996.0072; 10.2307/1352481,marine macroalgae,Cladophora vagabunda,Wet mass,0.005398149,NA,128,Linear,2.96,0.281,31,10.47297297,110.3202847
+Pedersen et al. 2005,10.1016/j.aquabot.2005.05.004,marine macroalgae,Sargassum muticum,Dry mass,0.016,NA,416,First order exponential decay,NA,NA,NA,NA,NA
+Pedersen et al. 2005,10.1016/j.aquabot.2005.05.004,marine macroalgae,Halidrys siliquosa ,Dry mass,0.019,NA,416,First order exponential decay,NA,NA,NA,NA,NA
+Pedersen et al. 2021,10.3354/meps13613,marine macroalgae,Laminaria hyperborea,Particulate organic carbon,0.034,NA,280,First order exponential decay,NA,NA,NA,34.977844,NA
+Pedersen et al. 2021,10.3354/meps13613,marine macroalgae,Laminaria hyperborea,Particulate organic carbon,0.012,NA,280,First order exponential decay,NA,NA,NA,34.977844,NA
+Pedersen et al. 2021,10.3354/meps13613,marine macroalgae,Laminaria hyperborea,Particulate organic carbon,0.038,NA,280,First order exponential decay,NA,NA,NA,34.977844,NA
+Pedersen et al. 2021,10.3354/meps13613,marine macroalgae,Laminaria hyperborea,Particulate organic carbon,0.009,NA,280,First order exponential decay,NA,NA,NA,34.977844,NA
+Pedersen et al. 2021,10.3354/meps13613,marine macroalgae,Laminaria hyperborea,Particulate organic carbon,0.029,NA,308,First order exponential decay,NA,NA,NA,32.378506,NA
+Pedersen et al. 2021,10.3354/meps13613,marine macroalgae,Laminaria hyperborea,Particulate organic carbon,0.013,NA,308,First order exponential decay,NA,NA,NA,32.378506,NA
+Pedersen et al. 2021,10.3354/meps13613,marine macroalgae,Laminaria hyperborea,Particulate organic carbon,0.037,NA,308,First order exponential decay,NA,NA,NA,32.378506,NA
+Pedersen et al. 2021,10.3354/meps13613,marine macroalgae,Laminaria hyperborea,Particulate organic carbon,0.018,NA,308,First order exponential decay,NA,NA,NA,32.378506,NA
+Pedersen et al. 2021,10.3354/meps13613,marine macroalgae,Laminaria hyperborea,Particulate organic carbon,-0.001946614,NA,121,None,NA,NA,NA,21.330935,NA
+Rice and Tenore 1981,10.1016/S0302-3524(81)80049-7,marine macroalgae,Gracilaria foliifera,Ash-free dry mass,0.00438,NA,150,First order exponential decay,NA,NA,NA,18.4,NA
+Rice and Tenore 1981,10.1016/S0302-3524(81)80049-7,marine macroalgae,Hypnea musciformis,Ash-free dry mass,0.00662,NA,150,First order exponential decay,NA,NA,NA,16.3,NA
+Rice and Tenore 1981,10.1016/S0302-3524(81)80049-7,marine macroalgae,Sargassum filipendula,Ash-free dry mass,0.00149,NA,150,First order exponential decay,NA,NA,NA,35.5,NA
+Rice and Tenore 1981,10.1016/S0302-3524(81)80049-7,marine macroalgae,Spatoglossum schroederi,Ash-free dry mass,0.00363,NA,150,First order exponential decay,NA,NA,NA,18.1,NA
+Sfriso and Marcomini 1997,10.1016/S0141-1136(97)00012-3,marine macroalgae,Ulva rigida,Wet mass,0.023,NA,NA,NA,NA,NA,NA,NA,NA
+Stuart et al. 1981,10.3354/meps004337,marine macroalgae,Laminaria pallida,Particulate organic carbon,0.06845273,NA,30,None,NA,NA,NA,NA,NA
+Thomsen and McGlathery 2007,10.1007/s10530-006-9043-3,marine macroalgae,Codium fragile,Wet mass,0.6531228,NA,37,Linear,NA,NA,NA,NA,NA
+Thomsen and McGlathery 2007,10.1007/s10530-006-9043-3,marine macroalgae,Agarophyton vermiculophyllum,Wet mass,0.09487339,NA,37,Linear,NA,NA,NA,NA,NA
+Thomsen and McGlathery 2007,10.1007/s10530-006-9043-3,marine macroalgae,Fucus vesiculosus,Wet mass,0.1364802,NA,37,Linear,NA,NA,NA,NA,NA
+Thomsen and McGlathery 2007,10.1007/s10530-006-9043-3,marine macroalgae,Ulva curvata,Wet mass,0.1146204,NA,37,Linear,NA,NA,NA,NA,NA
+Thomsen and McGlathery 2007,10.1007/s10530-006-9043-3,marine macroalgae,Agardhiella subulata ,Wet mass,0.8459117,NA,37,Linear,NA,NA,NA,NA,NA
+Twilley et al. 1986,10.2307/3566045,marine macroalgae,Ulva lactuca,Dry mass,0.023,NA,93,First order exponential decay,2.89,0.36,31.2,10.79584775,86.66666667
+Wada et al. 2008,10.3354/meps07645,marine macroalgae,Ecklonia cava,Dissolved organic carbon,0.0182,59.7,60,First order exponential decay,NA,NA,NA,NA,NA
+Wada et al. 2008,10.3354/meps07645,marine macroalgae,Ecklonia cava,Dissolved organic carbon,0.0058,85.7,50,First order exponential decay,NA,NA,NA,NA,NA
+Wada et al. 2008,10.3354/meps07645,marine macroalgae,Ecklonia cava,Dissolved organic carbon,0.0407,28.9,60,First order exponential decay,NA,NA,NA,NA,NA
+Wada et al. 2008,10.3354/meps07645,marine macroalgae,Ecklonia cava,Dissolved organic carbon,0.0342,39.2,30,First order exponential decay,NA,NA,NA,NA,NA
+Wada et al. 2008,10.3354/meps07645,marine macroalgae,Ecklonia cava,Dissolved organic carbon,0.0216,55.1,30,First order exponential decay,NA,NA,NA,NA,NA
+Watanabe et al. 2020,10.5194/bg-17-2425-2020,marine macroalgae,Sargassum horneri,Dissolved organic carbon,0.0021,78,150,First order exponential decay,NA,NA,NA,NA,NA
+Watanabe et al. 2020,10.5194/bg-17-2425-2020,marine macroalgae,Sargassum horneri,Dissolved organic carbon,0.0044,56,150,First order exponential decay,NA,NA,NA,NA,NA
+Williams 1984,10.1016/0022-0981(84)90007-8,marine macroalgae,Caulerpa cupressoides,Wet mass,0.03514313,NA,22,None,1.7,NA,27.32,16.07058824,NA
+Williams 1984,10.1016/0022-0981(84)90007-8,marine macroalgae,Caulerpa cupressoides,Wet mass,0.1358613,NA,28,None,1.7,NA,27.21,16.00588235,NA
+Williams 1984,10.1016/0022-0981(84)90007-8,marine macroalgae,Caulerpa cupressoides,Wet mass,0.1334055,NA,36,None,1.7,NA,27.21,16.00588235,NA
+Williams 1984,10.1016/0022-0981(84)90007-8,marine macroalgae,Caulerpa cupressoides,Wet mass,0.1204868,NA,28,None,1.7,NA,27.21,16.00588235,NA
+Wright and Kregting unpublished data,NA,marine macroalgae,Laminaria digitata,Buoyant mass,0.001033044,NA,46,NA,NA,NA,NA,NA,NA
+Wright and Kregting unpublished data,NA,marine macroalgae,Laminaria hyperborea,Buoyant mass,0.00407597,NA,46,NA,NA,NA,NA,NA,NA
+Wright and Kregting unpublished data,NA,marine macroalgae,Saccharina latissima,Buoyant mass,0.009786239,NA,39,NA,NA,NA,NA,NA,NA
+Wright and Kregting unpublished data,NA,marine macroalgae,Saccorhiza polyschides,Buoyant mass,0.02295149,NA,46,NA,NA,NA,NA,NA,NA
+Wright et al. 2022,10.1111/gcb.16299,marine macroalgae,Laminaria digitata,Buoyant mass,0.006958252,NA,32,NA,1.729357,NA,27.94204,16.15747356,NA
+Wright et al. 2022,10.1111/gcb.16299,marine macroalgae,Laminaria hyperborea,Buoyant mass,0.00506219,NA,32,NA,1.738469,NA,28.67478,16.49427168,NA
+Wright et al. 2022,10.1111/gcb.16299,marine macroalgae,Laminaria ochroleuca,Buoyant mass,0.01454277,NA,32,NA,1.336068,NA,22.02845,16.48752159,NA
+Andersen 1996,10.3354/meps134225,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.05037896,NA,80,Second order exponential decay,NA,NA,NA,NA,NA
+Andersen 1996,10.3354/meps134225,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.06782692,NA,80,Second order exponential decay,NA,NA,NA,NA,NA
+Andersen 1996,10.3354/meps134225,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon),0.09496865,NA,80,Second order exponential decay,NA,NA,NA,NA,NA
+Andersen 1996,10.3354/meps134225,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon),0.1409678,NA,80,Second order exponential decay,NA,NA,NA,NA,NA
+Andersen 1996,10.3354/meps134225,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.04911382,NA,80,Second order exponential decay,NA,NA,NA,NA,NA
+Andersen 1996,10.3354/meps134225,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.05289554,NA,80,Second order exponential decay,NA,NA,NA,NA,NA
+Biddanda 1988,10.3354/meps042089,marine phytoplankton,Dunaliella sp.,Particulate organic carbon (carbon dioxide),0.2631665,NA,16,Logarithmic decay,4.52,0.983,45.4,10.04424779,46.18514751
+Biddanda 1988,10.3354/meps042089,marine phytoplankton,Synechococcus sp.,Particulate organic carbon (carbon dioxide),0.1945291,NA,16,Logarithmic decay,6.08,0.85,29.27,4.814144737,34.43529412
+Biddanda 1988,10.3354/meps042089,marine phytoplankton,Cylindrotheca fusiformis,Particulate organic carbon (carbon dioxide),0.4300638,NA,16,Logarithmic decay,4.19,0.8,25.5,6.085918854,31.875
+Biddanda 1988,10.3354/meps042089,marine phytoplankton,Dunaliella sp.,Dissolved organic carbon (carbon dioxide),0.3199618,64.22087,16,Logarithmic decay,4.52,0.983,45.4,10.04424779,46.18514751
+Biddanda 1988,10.3354/meps042089,marine phytoplankton,Synechococcus sp.,Dissolved organic carbon (carbon dioxide),0.2270733,49.86344,16,Logarithmic decay,6.08,0.85,29.27,4.814144737,34.43529412
+Biddanda 1988,10.3354/meps042089,marine phytoplankton,Cylindrotheca fusiformis,Dissolved organic carbon (carbon dioxide),0.4400205,65.72162,16,Logarithmic decay,4.19,0.8,25.5,6.085918854,31.875
+Cabrera-Brufau et al. 2021,10.3389/fmars.2021.683354,marine phytoplankton,Chaetoceros spp.,Particulate organic carbon,0.1,NA,19,First order exponential decay,NA,NA,NA,10.1,175.4
+Cabrera-Brufau et al. 2021,10.3389/fmars.2021.683354,marine phytoplankton,Chaetoceros spp.,Total organic carbon,0.25,NA,19,First order exponential decay,NA,NA,NA,10.1,175.4
+Cabrera-Brufau et al. 2021,10.3389/fmars.2021.683354,marine phytoplankton,Emiliania huxleyi,Particulate organic carbon,0.32,NA,19,First order exponential decay,NA,NA,NA,6.8,83.8
+Cabrera-Brufau et al. 2021,10.3389/fmars.2021.683354,marine phytoplankton,Emiliania huxleyi,Total organic carbon,0.34,NA,19,First order exponential decay,NA,NA,NA,6.8,83.8
+Cabrera-Brufau et al. 2021,10.3389/fmars.2021.683354,marine phytoplankton,Emiliania huxleyi,Dissolved organic carbon,0.3918972,21.59011,19,None,NA,NA,NA,6.8,83.8
+Caradec et al. 2004,10.1016/j.orggeochem.2003.11.006,marine phytoplankton,Microchloropsis salina,Particulate organic carbon,0.072,NA,35,First order exponential decay,NA,NA,NA,NA,NA
+Caradec et al. 2004,10.1016/j.orggeochem.2003.11.006,marine phytoplankton,Microchloropsis salina,Particulate organic carbon,0.086,NA,35,First order exponential decay,NA,NA,NA,NA,NA
+Caradec et al. 2004,10.1016/j.orggeochem.2003.11.006,marine phytoplankton,Microchloropsis salina,Particulate organic carbon,0.097,NA,35,First order exponential decay,NA,NA,NA,NA,NA
+Engel et al. 2009,10.1016/j.dsr2.2008.11.028,marine phytoplankton,Emiliania huxleyi,Particulate organic carbon,0.012,NA,27,First order exponential decay,NA,NA,NA,NA,NA
+Engel et al. 2009,10.1016/j.dsr2.2008.11.028,marine phytoplankton,Emiliania huxleyi,Particulate organic carbon,0.016,NA,27,First order exponential decay,NA,NA,NA,NA,NA
+Engel et al. 2009,10.1016/j.dsr2.2008.11.028,marine phytoplankton,Emiliania huxleyi,Total particle volume,0.043,NA,29,First order exponential decay,NA,NA,NA,NA,NA
+Engel et al. 2009,10.1016/j.dsr2.2008.11.028,marine phytoplankton,Emiliania huxleyi,Total particle volume,0.129,NA,29,First order exponential decay,NA,NA,NA,NA,NA
+Jewell and McCarty 1971,10.1021/es60057a005,marine phytoplankton,NA,"Particulate organic carbon (chemical oxygen demand, i.e. carbon dioxide)",0.1,NA,312,First order exponential decay,NA,NA,NA,NA,NA
+Jewell and McCarty 1971,10.1021/es60057a005,marine phytoplankton,NA,"Particulate organic carbon (chemical oxygen demand, i.e. carbon dioxide)",0.034,NA,313,First order exponential decay,NA,NA,NA,NA,NA
+Jewell and McCarty 1971,10.1021/es60057a005,marine phytoplankton,NA,"Particulate organic carbon (chemical oxygen demand, i.e. carbon dioxide)",0.019,NA,366,First order exponential decay,NA,NA,NA,NA,NA
+Jewell and McCarty 1971,10.1021/es60057a005,marine phytoplankton,NA,"Particulate organic carbon (chemical oxygen demand, i.e. carbon dioxide)",0.01,NA,323,First order exponential decay,NA,NA,NA,NA,NA
+Jewell and McCarty 1971,10.1021/es60057a005,marine phytoplankton,NA,"Particulate organic carbon (chemical oxygen demand, i.e. carbon dioxide)",0.011,NA,295,First order exponential decay,NA,NA,NA,NA,NA
+Jewell and McCarty 1971,10.1021/es60057a005,marine phytoplankton,NA,"Particulate organic carbon (chemical oxygen demand, i.e. carbon dioxide)",0.15,NA,317,First order exponential decay,NA,NA,NA,NA,NA
+Jewell and McCarty 1971,10.1021/es60057a005,marine phytoplankton,NA,"Particulate organic carbon (chemical oxygen demand, i.e. carbon dioxide)",0.034,NA,320,First order exponential decay,NA,NA,NA,NA,NA
+Jewell and McCarty 1971,10.1021/es60057a005,marine phytoplankton,NA,"Particulate organic carbon (chemical oxygen demand, i.e. carbon dioxide)",0.01,NA,365,First order exponential decay,NA,NA,NA,NA,NA
+Jewell and McCarty 1971,10.1021/es60057a005,marine phytoplankton,NA,"Particulate organic carbon (chemical oxygen demand, i.e. carbon dioxide)",0.01,NA,322,First order exponential decay,NA,NA,NA,NA,NA
+Jewell and McCarty 1971,10.1021/es60057a005,marine phytoplankton,NA,"Particulate organic carbon (chemical oxygen demand, i.e. carbon dioxide)",0.025,NA,230,First order exponential decay,NA,NA,NA,NA,NA
+Jewell and McCarty 1971,10.1021/es60057a005,marine phytoplankton,Ceratoneis closterium,"Particulate organic carbon (chemical oxygen demand, i.e. carbon dioxide)",0.015,NA,NA,First order exponential decay,NA,NA,NA,NA,NA
+Jewell and McCarty 1971,10.1021/es60057a005,marine phytoplankton,Ceratoneis closterium,"Particulate organic carbon (chemical oxygen demand, i.e. carbon dioxide)",0.07,NA,NA,First order exponential decay,NA,NA,NA,NA,NA
+Kragh and Sondergaard 2009,10.1007/s10533-009-9357-1,marine phytoplankton,NA,Dissolved combined neutral sugars,0.172711572,NA,150,First order exponential decay,NA,NA,NA,NA,NA
+Kragh and Sondergaard 2009,10.1007/s10533-009-9357-1,marine phytoplankton,diatoms,Dissolved organic carbon,0.07244635,58.4109,150,None,NA,NA,NA,NA,NA
+Kragh and Sondergaard 2009,10.1007/s10533-009-9357-1,marine phytoplankton,diatoms,Dissolved organic carbon,0.07166233,46.04946,150,None,NA,NA,NA,NA,NA
+Kragh and Sondergaard 2009,10.1007/s10533-009-9357-1,marine phytoplankton,diatoms,Dissolved organic carbon,0.06802709,45.87317,150,None,NA,NA,NA,NA,NA
+Kragh and Sondergaard 2009,10.1007/s10533-009-9357-1,marine phytoplankton,NA,Dissolved organic carbon,0.05645644,72.72601,150,None,NA,NA,NA,NA,NA
+Kragh and Sondergaard 2009,10.1007/s10533-009-9357-1,marine phytoplankton,NA,Dissolved organic carbon,0.1088893,55.67825,150,None,NA,NA,NA,NA,NA
+Kragh and Sondergaard 2009,10.1007/s10533-009-9357-1,marine phytoplankton,NA,Dissolved organic carbon,0.1242585,55.83563,150,None,NA,NA,NA,NA,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.1734614,NA,23,Second order exponential decay,NA,NA,NA,9,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.8044728,NA,23,Second order exponential decay,NA,NA,NA,9,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.2487543,NA,23,Second order exponential decay,NA,NA,NA,9,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.6821567,NA,23,Second order exponential decay,NA,NA,NA,9,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.7020764,NA,23,Second order exponential decay,NA,NA,NA,9,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.5651263,NA,23,Second order exponential decay,NA,NA,NA,9,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.05295506,NA,23,Second order exponential decay,NA,NA,NA,14.4,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.1494804,NA,23,Second order exponential decay,NA,NA,NA,14.4,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.02690464,NA,23,Second order exponential decay,NA,NA,NA,14.4,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.155322,NA,23,Second order exponential decay,NA,NA,NA,14.4,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.1208695,NA,23,Second order exponential decay,NA,NA,NA,14.4,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (dissolved organic carbon + carbon dioxide),0.1234453,NA,23,Second order exponential decay,NA,NA,NA,14.4,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.1327218,NA,23,Second order exponential decay,NA,NA,NA,9,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.3784507,NA,23,Second order exponential decay,NA,NA,NA,9,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.2130389,NA,23,Second order exponential decay,NA,NA,NA,9,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.4609223,NA,23,Second order exponential decay,NA,NA,NA,9,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.5789361,NA,23,Second order exponential decay,NA,NA,NA,9,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.4230376,NA,23,Second order exponential decay,NA,NA,NA,9,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.04972256,NA,23,Second order exponential decay,NA,NA,NA,14.4,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.1256188,NA,23,Second order exponential decay,NA,NA,NA,14.4,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.02228454,NA,23,Second order exponential decay,NA,NA,NA,14.4,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.1553461,NA,23,Second order exponential decay,NA,NA,NA,14.4,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.1173293,NA,23,Second order exponential decay,NA,NA,NA,14.4,NA
+Kristensen and Holmer 2001,10.1016/S0016-7037(00)00532-9,marine phytoplankton,Skeletonema costatum,Particulate organic carbon (carbon dioxide),0.07886837,NA,23,Second order exponential decay,NA,NA,NA,14.4,NA
+Lee and Fisher 1992,10.4319/lo.1992.37.7.1345,marine phytoplankton,Thalassiosira pseudonana ,Particulate organic carbon,0.1788792,NA,22,Linear,NA,NA,NA,NA,NA
+Lee and Fisher 1992,10.4319/lo.1992.37.7.1345,marine phytoplankton,Thalassiosira pseudonana ,Particulate organic carbon,0.1416998,NA,22,Linear,NA,NA,NA,NA,NA
+Newell et al. 1981,10.3354/meps006123,marine phytoplankton,Skeletonema costatum,Particulate organic carbon,0.07605531,NA,21,None,5.92,1.7,31.3,5.287162162,18.41176471
+Newell et al. 1981,10.3354/meps006123,marine phytoplankton,Phaeodactylum tricornutum,Particulate organic carbon,0.07209129,NA,14,None,2.3,NA,18.08,7.860869565,NA
+Newell et al. 1981,10.3354/meps006123,marine phytoplankton,Thalassiosira angstii,Particulate organic carbon,0.2016615,NA,21,None,3.59,0.34,22.6,6.295264624,66.47058824
+Newell et al. 1981,10.3354/meps006123,marine phytoplankton,Scrippsiella acuminata,Particulate organic carbon,0.6782137,NA,7,None,3.94,1.02,NA,NA,NA
+Newell et al. 1981,10.3354/meps006123,marine phytoplankton,Skeletonema costatum,Dissolved organic carbon,1.589133,25.55963,21,None,5.92,1.7,31.3,5.287162162,18.41176471
+Newell et al. 1981,10.3354/meps006123,marine phytoplankton,Phaeodactylum tricornutum,Dissolved organic carbon,0.9871385,17.218311,21,None,2.3,NA,18.08,7.860869565,NA
+Newell et al. 1981,10.3354/meps006123,marine phytoplankton,Thalassiosira angstii,Dissolved organic carbon,0.9622507,3.510906,21,None,3.59,0.34,22.6,6.295264624,66.47058824
+Newell et al. 1981,10.3354/meps006123,marine phytoplankton,Scrippsiella acuminata,Dissolved organic carbon,0.6711755,0,21,None,3.94,1.02,NA,NA,NA
+Ogura 1975,10.1007/BF00391622,marine phytoplankton,NA,Dissolved organic carbon,0.2727841,NA,40,Second order exponential decay,NA,NA,NA,NA,NA
+Ogura 1975,10.1007/BF00391622,marine phytoplankton,NA,Dissolved organic carbon,0.8172275,NA,40,Second order exponential decay,NA,NA,NA,NA,NA
+Ogura 1975,10.1007/BF00391622,marine phytoplankton,NA,Dissolved organic carbon,0.2621968,NA,40,Second order exponential decay,NA,NA,NA,NA,NA
+Ogura 1975,10.1007/BF00391622,marine phytoplankton,NA,Dissolved organic carbon,0.08008088,NA,40,Second order exponential decay,NA,NA,NA,NA,NA
+Ogura 1975,10.1007/BF00391622,marine phytoplankton,NA,Dissolved organic carbon,0.2080057,NA,40,Second order exponential decay,NA,NA,NA,NA,NA
+Ogura 1975,10.1007/BF00391622,marine phytoplankton,NA,Dissolved organic carbon,0.04597749,NA,120,Second order exponential decay,NA,NA,NA,NA,NA
+Twilley et al. 1986,10.2307/3566045,marine phytoplankton,Chlorella sp.,Chlorophyll a,0.054,NA,75,None,6.63,1.09,49.6,7.481146305,45.50458716
+Walsh et al. 1988,10.1016/0198-0149(88)90056-8,marine phytoplankton,NA,Particulate organic carbon,0.087671233,NA,NA,First order exponential decay,5.95,1.097,45,7.56302521,41.02096627
+Walsh et al. 1988,10.1016/0198-0149(88)90056-8,marine phytoplankton,NA,Particulate organic carbon,0.035616438,NA,NA,First order exponential decay,5.95,1.097,45,7.56302521,41.02096627
+Walsh et al. 1988,10.1016/0198-0149(88)90056-8,marine phytoplankton,NA,Particulate organic carbon,0.065753425,NA,NA,First order exponential decay,5.95,1.097,45,7.56302521,41.02096627
+Walsh et al. 1988,10.1016/0198-0149(88)90056-8,marine phytoplankton,NA,Particulate organic carbon,0.020547945,NA,NA,First order exponential decay,5.95,1.097,45,7.56302521,41.02096627
+Walsh et al. 1988,10.1016/0198-0149(88)90056-8,marine phytoplankton,NA,Particulate organic carbon,0.04109589,NA,NA,First order exponential decay,5.95,1.097,45,7.56302521,41.02096627
+Walsh et al. 1988,10.1016/0198-0149(88)90056-8,marine phytoplankton,NA,Particulate organic carbon,0.010136986,NA,NA,First order exponential decay,5.95,1.097,45,7.56302521,41.02096627
+Westrich and Berner 1984,10.4319/lo.1984.29.2.0236,marine phytoplankton,Leptocylindrus spp.,Particulate organic carbon,0.0768633,NA,674,Second order exponential decay,NA,NA,NA,NA,NA
