@@ -1,6 +1,6 @@
 #### Figure 1. Macroalgal carbon assimilation ####
 #### Figure 1a. Aquaculture production ####
-species <- read.csv("~/Desktop/Projects/Algal carbon/Data/Species.csv")
+species <- read.csv("~/PATH/Species.csv")
 species$Production <- species$Production/1000 # convert kt to Mt
 species$Product <- factor(species$Product, as.character(unique(species$Product)))
 
@@ -44,7 +44,7 @@ sp
 # dimensions: 5 x 3 in
 
 #### Figure 1b1. Aquaculture distribution map ####
-countries <- read.csv("~/Desktop/Projects/Algal carbon/Data/Countries.csv")
+countries <- read.csv("~/PATH/Countries.csv")
 countries$Production <- countries$Production/1000000 # convert t to Mt
 mapdf <- map_data(map = "world")
 colnames(mapdf)[5] <- "Country"
@@ -53,7 +53,7 @@ mapdf <- left_join(mapdf, countries, by = "Country")
 mapdf[is.na(mapdf$Production),]$Production <- 0.0001
 colnames(mapdf)[5] <- "id"
 
-assimilation <- read.csv("~/Desktop/Projects/Algal carbon/Data/Assimilation.csv")
+assimilation <- read.csv("~/PATH/Assimilation.csv")
 assimilation <- assimilation[complete.cases(assimilation$Latitude_decimal_degrees),]
 assimilation <- assimilation[assimilation$Avg_NPP_kg_C_m2_y > 0,]
 
@@ -219,7 +219,7 @@ nppd <- ggplot() +
 nppd
 
 #### Figure 1c2. Macroalgal total chlorophyll ####
-chlorophyll <- read.csv("~/Desktop/Projects/Algal carbon/Data/Chlorophyll.csv")
+chlorophyll <- read.csv("~/PATH/Chlorophyll.csv")
 chlorophyll$Chl <- with(chlorophyll, Chl.a + Chl.c)
 chlorophyll <- chlorophyll[-c(352, 367, 414, 437, 455, 467, 511),] # remove extreme outliers
 
@@ -262,7 +262,7 @@ chl <- ggplot() +
 chl
 
 #### Figure 1d1. Calcifying epifaunal cover ####
-calcification <- read.csv("~/Desktop/Projects/Algal carbon/Data/Calcification.csv")
+calcification <- read.csv("~/PATH/Calcification.csv")
 calcification.nosarg <- calcification[-c(115:150),] # remove Sargassum fluitans and natans
 
 mean(calcification[115:150,]$Cover) # = 41.59289%
@@ -303,7 +303,7 @@ cal <- ggplot() +
 cal
 
 #### Figure 1d2. Rafting and calcification ####
-rafting <- read.csv("~/Desktop/Projects/Algal carbon/Data/Rafting.csv")
+rafting <- read.csv("~/PATH/Rafting.csv")
 
 rafting$Season <- factor(rafting$Season, levels = c("Spring", "Summer", "Autumn", "Winter"))
 
@@ -419,7 +419,7 @@ Fig1 # 10.5 x 13.5 in
 
 #### No Figure. Other factors explaining variation in epifaunal calcification ####
 # Artificial vs natural substrata
-artificial <- read.csv("~/Desktop/Projects/Algal carbon/Data/Artificial.csv")
+artificial <- read.csv("~/PATH/Artificial.csv")
 require(betareg) # used to model the beta distribution
 # the beta distribution only allows values between 0 and 1
 # hence Cover needs to be divided by 100 and
@@ -494,7 +494,7 @@ psi(flag = 15, var1 = 2420e-6, var2 = 2080e-6,
 
 #### Figure 2. Algal carbon fate ####
 #### Figure 2a. Carbon remineralisation, export and accumulation ####
-fate <- read.csv("~/Desktop/Projects/Algal carbon/Data/Fate.csv")
+fate <- read.csv("~/PATH/Fate.csv")
 
 fate$Ecosystem <- factor(fate$Ecosystem, 
                          levels = c("Phytoplankton", "Macroalgal forests", "Seagrass meadows", 
@@ -727,7 +727,7 @@ CE
 
 
 #### Figure 2b1. Remineralisation of exported carbon ####
-decomp <- read.csv("~/Desktop/Projects/Algal carbon/Data/Decomposition.csv")
+decomp <- read.csv("~/PATH/Decomposition.csv")
 decomp$Plant <- factor(decomp$Plant, levels = c("marine phytoplankton", "marine macroalgae"))
 
 m14 <- lm(k ~ Plant, data = decomp)
@@ -852,7 +852,7 @@ Fig2 # dimensions: 12 x 6 in
 
 
 #### No Figure. Faunal diets ####
-diet <- read.csv("~/Desktop/Projects/Algal carbon/Data/Diet.csv")
+diet <- read.csv("~/PATH/Diet.csv")
 diet$Plant <- factor(diet$Plant, levels = c("Phytoplankton", "Macroalgae"))
 
 diet$Average[3]-diet$Average[4]
